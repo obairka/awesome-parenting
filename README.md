@@ -1,10 +1,10 @@
-# Awesome Parenting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> Список проверенных ресурсов о воспитании детей
+# Awesome Parenting
+> Список проверенных ресурсов о воспитании детей 
 
-## Содержание
+## Блоги
 
-- [Сайты](#websites)
-- [Блоги](#blogs)
-- [Онлайн курсы](#online-courses)
-- [Книги](#books)
-- [Инструменты и приложения](#tools-and-apps)
+- [doctor_komarovskiy](https://www.instagram.com/doctor_komarovskiy/) - Доктор Комаровский.
+- [doctor_annamama](https://www.instagram.com/doctor_annamama/) - Блог о педиатрии Анны Левадной. 
+- [massagist_novokrinitskii](https://www.instagram.com/massagist_novokrinitskii/) - Блог про физическое развитие ребенка от массажиста Игоря Новокриницкого. Помимо блога есть книга, сайт, курсы.
+- [pro_appetit](https://www.instagram.com/pro_appetit/) - Блог про прикорм, питание детей от нутрициолога Александры Ситновой. Помимо блога есть книга, сайт, курсы.
+
